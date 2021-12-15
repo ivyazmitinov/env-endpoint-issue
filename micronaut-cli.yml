@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.ivyaz.env.endpoint.issue
+testFramework: junit
+sourceLanguage: java
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, gradle, http-client, java, java-application, junit, logback, management, micronaut-build, netty-server, readme, security, security-annotations, security-jwt, shade, yaml]
